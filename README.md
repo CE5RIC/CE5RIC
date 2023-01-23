@@ -6,7 +6,7 @@ I'm **Cédric Dierckx**
 Currently enlisted in the Becode training and on my way to become a Full Stack Web Developer. I really enjoy learning
 languages and frameworks like React and Vue. 
 
-*Skills: PHP / REACT / VUE / JS / HTML / CSS*
+*Skills: PHP / REACT / JS / HTML / CSS*
 
 
 
