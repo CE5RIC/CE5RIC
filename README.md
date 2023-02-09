@@ -3,10 +3,10 @@ I'm **Cédric Dierckx**
 #### Developer
 ![Developer](https://pbs.twimg.com/profile_banners/1480155050802561033/1663515082/600x200)
 
-Currently enlisted in the Becode training and on my way to become a Full Stack Web Developer. I really enjoy learning
+Recently finished my Becode training and on my way to become a Full Stack Web Developer. I really enjoy learning
 languages and frameworks like React and Vue. 
 
-*Skills: PHP / REACT / JS / HTML / CSS*
+*Skills: REACT / Typescript / HTML / CSS/ MATERIAL UI / FIGMA
 
 
 
